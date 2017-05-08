@@ -1,0 +1,11 @@
+{
+  "name": "cell",
+  "version": "0.0.0",
+  "description": "Basic operations for grid cells",
+  "license": "MIT",
+  "author": "Brandon Semilla (https://github.com/semibran)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/semibran/cell.git"
+  }
+}
